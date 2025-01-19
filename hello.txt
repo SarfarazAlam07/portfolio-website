@@ -1,0 +1,10 @@
+proto
+this modal focuses on creating a working modal of the software system early in the development cycle.
+this prototype is then evaluated by users and their feadback is used to refine a system .
+the process iterates until and acceptabel product is achive.
+->steps of prototype modal 
+1. define the problem
+2. identify the user and their needs
+3. create a prototype
+4. test the prototype
+5. refine the prototype
